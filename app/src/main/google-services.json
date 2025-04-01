@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "216294750717",
+    "project_id": "datedemo-93b91",
+    "storage_bucket": "datedemo-93b91.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216294750717:android:6e29d17d1ad5a15546c194",
+        "android_client_info": {
+          "package_name": "com.utkarsh.datedemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxNjB2Os9apZu6fcbUbqrYYD1oaWxcNtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
